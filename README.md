@@ -15,7 +15,8 @@
 
 2.主要
 
-![1675251457437](C:\Users\29364\Documents\Tencent Files\2936437824\FileRecv\MobileFile\1675251457437.gif)
+![1675251457437](https://user-images.githubusercontent.com/117186626/216035355-badbb8c8-5c72-43be-9482-4dcb6a90a5a6.gif)
+
 
 ## 技术亮点
 
