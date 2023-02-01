@@ -14,8 +14,8 @@
 ![1675251457451](https://user-images.githubusercontent.com/117186626/216035184-f9a45263-0618-41b9-81b1-a51c85b46b48.gif)
 
 2.主要
+![1675251457437](https://user-images.githubusercontent.com/117186626/216035942-f123ed2f-7d5e-4656-b76b-f14a3c45fb53.gif)
 
-![1675251457437](https://user-images.githubusercontent.com/117186626/216035355-badbb8c8-5c72-43be-9482-4dcb6a90a5a6.gif)
 
 
 ## 技术亮点
