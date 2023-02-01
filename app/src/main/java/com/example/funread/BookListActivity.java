@@ -53,17 +53,14 @@ import okhttp3.Response;
  * description ：
  * author : lytMoon
  * email : yytds@foxmail.com
- * date : 2023/1/19
- * version: 1.0
+ * date : 2023/2/1
+ * version: 2.0
  */
 public class BookListActivity extends AppCompatActivity {
 
-    private String Result;
-    private TextView textView;
     private List<BookListResult.Book> mBooks = new ArrayList<>();//进行初始化，防止空指针
     private String url = "http://www.imooc.com/api/teacher?type=10";
     private ListView mListView;
-    private File file;
 
 
     @Override
@@ -147,7 +144,7 @@ public class BookListActivity extends AppCompatActivity {
             viewHoder.mNameTextView.setText(book.getBookname());
             viewHoder.mButton.setText("点击下载");
             ViewHoder finalViewHoder2 = viewHoder;
-            final String path = getExternalFilesDir(Environment.DIRECTORY_DOCUMENTS).getAbsolutePath();
+            final String path = getExternalFilesDir(Environment.DIRECTORY_DOCUMENTS).getAbsolutePath();//设置下载的路径
             Log.d("pathname","(BookListActivity.java:152)-->> "+path);
             final File file = new File(path, book.getBookname()+ ".txt");
             final String filePath = file.getPath();

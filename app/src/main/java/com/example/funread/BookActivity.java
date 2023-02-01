@@ -98,7 +98,7 @@ public class BookActivity extends Activity {
             }
         }
     }
-
+//封装跳转操作
     public static void start(Context context, String filePath) throws IOException {
         Intent intent = new Intent(context, BookActivity.class);
         intent.putExtra(FILE_PATH, filePath);
