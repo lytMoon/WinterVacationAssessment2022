@@ -23,6 +23,12 @@ import android.widget.Scroller;
 import android.widget.Toast;
 
 import java.io.IOException;
+/**
+ * description ：借用网络上的自定义view
+ * author : lytMoon
+ * email : yytds@foxmail.com
+ * version: 1.0
+ */
 
 /**
  * 贝塞尔曲线翻页效果

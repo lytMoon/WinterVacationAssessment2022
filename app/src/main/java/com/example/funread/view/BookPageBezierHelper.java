@@ -18,6 +18,13 @@ import java.io.UnsupportedEncodingException;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 import java.util.Vector;
+/**
+ * description ：这里采用的网上给的帮助类
+ * author : lytMoon
+ * email : yytds@foxmail.com
+ * date : 2023/1/19
+ * version: 1.0
+ */
 
 public class BookPageBezierHelper {
 

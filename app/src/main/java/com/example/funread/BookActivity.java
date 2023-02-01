@@ -25,6 +25,13 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.channels.FileChannel;
+/**
+ * description ：
+ * author : lytMoon
+ * email : yytds@foxmail.com
+ * date : 2023/2/1
+ * version: 1.0
+ */
 
 public class BookActivity extends Activity {
     private BookPageBezierHelper mHelper;
